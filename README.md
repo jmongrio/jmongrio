@@ -2,8 +2,7 @@
 ## About me | Acerca de Mi
 - Computer Sciences Student | Estudiante de Ingeniería Informática
 ## Programming | Programación
-- C#
-- Java
+- .NET
 ## Database | Base de datos
 - SQL Server
 - SQLite
