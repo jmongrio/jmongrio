@@ -4,6 +4,6 @@
 ## Programming | Programación
 - C#
 - Java
-## Data Base | Base de datos
+## Database | Base de datos
 - SQL Server
 - SQLite
