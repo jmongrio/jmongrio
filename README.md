@@ -1,9 +1,11 @@
 # **JASÓN MONGRILLO DÍAZ**
-## About me | Acerca de Mi
-- Computer Sciences Student | Estudiante de Ingeniería Informática
-## Programming | Programación
-- .NET
-- Entity framework
-## Database | Base de datos
-- SQL Server
+## About me
+- I am a new developer, I consider myself honest, dedicated, patient, tolerant.  I'm respectful, I want to learn a lot of new things and do my job the best way. I am multitasking, flexible and efficient.
+## Skills
+- C# .NET CORE
+- Entity Framework
+- OOP
+- API REST
+- MS SQL SERVER
 - SQLite
+- Git
