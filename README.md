@@ -10,6 +10,5 @@ I am a new developer, I consider myself honest, dedicated, patient, tolerant.  I
 - SQLite
 - Git
 ## Social Network
-- [Linkedin](https://www.linkedin.com/in/jmongrillo/) 
-<br/>
+- [Linkedin](https://www.linkedin.com/in/jmongrillo/) <br/>
 - [Twitter](https://twitter.com/jmongrillod)
