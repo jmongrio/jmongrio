@@ -9,3 +9,6 @@
 - MS SQL SERVER
 - SQLite
 - Git
+
+[Linkedin](https://www.linkedin.com/in/jmongrillo/)
+[Twitter](https://twitter.com/jmongrillod)
