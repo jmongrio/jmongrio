@@ -10,5 +10,6 @@
 - SQLite
 - Git
 
-[Linkedin](https://www.linkedin.com/in/jmongrillo/)
+[Linkedin](https://www.linkedin.com/in/jmongrillo/) 
+<hr/>
 [Twitter](https://twitter.com/jmongrillod)
