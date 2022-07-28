@@ -9,7 +9,7 @@
 - MS SQL SERVER
 - SQLite
 - Git
-
+## Socials
 [Linkedin](https://www.linkedin.com/in/jmongrillo/) 
-<hr/>
+<br/>
 [Twitter](https://twitter.com/jmongrillod)
