@@ -1,6 +1,6 @@
 # **JASÓN MONGRILLO DÍAZ**
 ## About me
-- I am a new developer, I consider myself honest, dedicated, patient, tolerant.  I'm respectful, I want to learn a lot of new things and do my job the best way. I am multitasking, flexible and efficient.
+I am a new developer, I consider myself honest, dedicated, patient, tolerant.  I'm respectful, I want to learn a lot of new things and do my job the best way. I am multitasking, flexible and efficient.
 ## Skills
 - C# .NET CORE
 - Entity Framework
@@ -10,6 +10,6 @@
 - SQLite
 - Git
 ## Social Network
-[Linkedin](https://www.linkedin.com/in/jmongrillo/) 
+- [Linkedin](https://www.linkedin.com/in/jmongrillo/) 
 <br/>
-[Twitter](https://twitter.com/jmongrillod)
+- [Twitter](https://twitter.com/jmongrillod)
