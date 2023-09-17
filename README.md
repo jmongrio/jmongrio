@@ -14,11 +14,11 @@ I am a junior developer on a journey to become a skilled and efficient software 
 I'm passionate about coding and technology, and I'm always excited to learn new things and tackle fresh challenges. My goal is to continuously improve my skills and make a positive impact through my work.
 
 ## Skills
-- 💻 C# .NET CORE
+- 💻 C# - .NET CORE
 - 🫴 Entity Framework
 - 🚗 OOP
 - ✍️ API REST
-- 🏢 MS SQL SERVER
+- 🏢 SQL SERVER
 - 🏢 SQLite
 - 🛂 Git
 
