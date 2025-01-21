@@ -24,8 +24,8 @@ I'm passionate about coding and technology, and I'm always excited to learn new 
 
 ## Proyects
  - 🏨 [Momotus Glamping](https://momotusglamping.com)
- - 🙋‍♂️ [Personal website](https://jmongrio.com)
- - 🌐 [Bingo number traking](https://control-para-bingo.netlify.app)
+ - 🙋‍♂️ [Personal website](https://personal-website.app.jmongrio.com)
+ - 🌐 [Bingo number traking](https://control-bingo.app.jmongrio.com/)
  - 🌐 [Mimetista (trabajando)](https://mimetista.netlify.app/)
 
 Feel free to explore these projects and provide feedback or collaborate with me!
