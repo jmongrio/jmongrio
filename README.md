@@ -27,6 +27,8 @@ I'm passionate about coding and technology, and I'm always excited to learn new 
  - 🙋‍♂️ [Personal website](https://personal-website.app.jmongrio.com)
  - 🌐 [Bingo number traking](https://control-bingo.app.jmongrio.com/)
  - 🌐 [Mimetista (trabajando)](https://mimetista.netlify.app/)
+ - 📝 [Personal Blog](https://blog.app.jmongrio.com)
+ - 📒 [Todo app](https://todo.app.jmongrio.com/)
 
 Feel free to explore these projects and provide feedback or collaborate with me!
 
