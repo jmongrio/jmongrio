@@ -33,6 +33,6 @@ I'm passionate about coding and technology, and I'm always excited to learn new 
 Feel free to explore these projects and provide feedback or collaborate with me!
 
 ## Contact me
-- [Website](https://jmongrio.somee.com) <br/>
+- [Website](https://personal-website.app.jmongrio.com) <br/>
 - [Linkedin](https://www.linkedin.com/in/jmongrillo/) <br/>
 - [Twitter](https://twitter.com/jmongrillod)
