@@ -1,13 +1,8 @@
 # **JASÓN MONGRILLO DÍAZ**
-
 I am a junior developer on a journey to become a skilled and efficient software engineer. I am known for my qualities:
-
 - **Honesty**: I believe in the value of transparency and ethical conduct in all aspects of development.
-
 - **Dedication**: I am committed to my work and always strive for excellence in every project I undertake.
-
 - **Patience**: I understand that learning and problem-solving take time, and I approach challenges with patience and perseverance.
-
 - **Tolerance**: I embrace diversity and respect different perspectives, fostering a collaborative and inclusive environment.
 
 ## About me
