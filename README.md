@@ -21,7 +21,7 @@ I'm passionate about coding and technology, and I'm always excited to learn new 
  - 🏨 [Momotus Glamping](https://momotusglamping.com)
  - 🙋‍♂️ [Personal website](https://personal-website.app.jmongrio.com)
  - 🌐 [Bingo number traking](https://control-bingo.app.jmongrio.com/)
- - 🌐 [Mimetista (trabajando)](https://mimetista.netlify.app/)
+ - 🌐 [Mimetista (plantilla)](https://mimetista.netlify.app/)
  - 🌐 [Vidriera (plantilla)](https://vidriera.netlify.app/)
  - 🌐 [Hotel (plantilla)](https://hotel-base.netlify.app/)
  - 📝 [Personal Blog](https://blog.app.jmongrio.com)
