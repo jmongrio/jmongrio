@@ -1,23 +1,16 @@
-# **JASÓN MONGRILLO DÍAZ**
-I am a junior developer on a journey to become a skilled and efficient software engineer. I am known for my qualities:
-- **Honesty**: I believe in the value of transparency and ethical conduct in all aspects of development.
-- **Dedication**: I am committed to my work and always strive for excellence in every project I undertake.
-- **Patience**: I understand that learning and problem-solving take time, and I approach challenges with patience and perseverance.
-- **Tolerance**: I embrace diversity and respect different perspectives, fostering a collaborative and inclusive environment.
+# Jasón Mongrio Díaz | Software Developer
+Desarrollador de software especializado en aplicaciones web y soluciones completas usando .NET, C# y tecnologías modernas de front-end. Construyo proyectos funcionales y escalables con buenas prácticas y enfoque en la experiencia del usuario.
+Software developer specialized in web applications and full-stack solutions using .NET, C# and modern front-end technologies. I build functional and scalable projects with best practices and a focus on user experience.
 
-## About me
-I'm passionate about coding and technology, and I'm always excited to learn new things and tackle fresh challenges. My goal is to continuously improve my skills and make a positive impact through my work.
+---
 
-## Skills
-- 💻 C# - .NET CORE
-- 🫴 Entity Framework
-- 🚗 OOP
-- ✍️ API REST
-- 🏢 SQL SERVER
-- 🏢 SQLite
-- 🛂 Git
+## 🛠 Habilidades / Skills
+**Lenguajes / Languages:** C#, TypeScript, JavaScript, SQL  
+**Frameworks & Herramientas / Frameworks & Tools:** .NET Core, .NET 8, ASP.NET MVC, Razor Pages, React, Bootstrap  
+**Bases de datos / Databases:** SQL Server, SQLite, Entity Framework  
+**Otras herramientas / Other Tools:** Git, REST APIs, GitHub Actions, principios SOLID  
 
-## Proyects
+## 💻 Proyectos Destacados / Featured Projects
  - 🏨 [Momotus Glamping](https://momotusglamping.com)
  - 🙋‍♂️ [Personal website](https://personal-website.app.jmongrio.com)
  - 🌐 [Bingo number traking](https://control-bingo.app.jmongrio.com/)
@@ -27,9 +20,18 @@ I'm passionate about coding and technology, and I'm always excited to learn new 
  - 📝 [Personal Blog](https://blog.app.jmongrio.com)
  - 📒 [Todo app](https://todo.app.jmongrio.com/)
 
-Feel free to explore these projects and provide feedback or collaborate with me!
+## 📊 Estadísticas de GitHub / GitHub Stats
 
-## Contact me
-- [Website](https://personal-website.app.jmongrio.com) <br/>
-- [Linkedin](https://www.linkedin.com/in/jmongrillo/) <br/>
-- [Twitter](https://twitter.com/jmongrillod)
+![Jasón's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmongrio&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contacto / Contact
+
+- LinkedIn: [linkedin.com/in/jmongrio](https://www.linkedin.com/in/jmongrio)  
+- Portfolio: [jmongrio.com](https://personal-website.app.jmongrio.com)  
+- Email: tu-email@dominio.com
+
+---
+
+**¡Gracias por visitar mi perfil! / Thanks for visiting my profile!**
